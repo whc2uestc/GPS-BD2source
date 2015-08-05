@@ -1,8 +1,8 @@
 /*
  * MEO_loc.c
  *
- *  Created on: 2011-11-18
- *      Author: ah
+ *  Created on: 2013-11-18
+ *      Author: whc
  */
 #include <math.h>
 
