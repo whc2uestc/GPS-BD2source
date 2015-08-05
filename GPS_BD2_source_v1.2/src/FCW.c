@@ -1,8 +1,8 @@
 /*
  * FCW.c
  *
- *  Created on: 2011-11-22
- *      Author: ah
+ *  Created on: 2013-11-22
+ *      Author: whc
  */
 #define _USE_MATH_DEFINES
 #include <math.h>
