@@ -1,8 +1,8 @@
 /*
  * GPS_loc.c
  *
- *  Created on: 2011-12-22
- *      Author: ah
+ *  Created on: 2013-12-22
+ *      Author: whc
  */
 
 #include <math.h>
