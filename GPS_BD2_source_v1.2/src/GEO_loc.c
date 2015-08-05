@@ -1,8 +1,8 @@
 /*
  * GEO_loc.c
  *
- *  Created on: 2011-11-21
- *      Author: ah
+ *  Created on: 2013-11-21
+ *      Author: whc
  */
 #define _USE_MATH_DEFINES
 #include <math.h>
