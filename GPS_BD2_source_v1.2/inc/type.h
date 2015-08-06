@@ -1,8 +1,8 @@
 /*
  * type.h
  *
- *  Created on: 2011-6-29
- *      Author: ah
+ *  Created on: 2013-11-29
+ *      Author: whc
  */
 
 #ifndef TYPE_H_
