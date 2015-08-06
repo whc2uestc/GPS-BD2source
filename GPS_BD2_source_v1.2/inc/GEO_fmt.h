@@ -1,8 +1,8 @@
 /*
  * fmt.h
  *
- *  Created on: Oct 26, 2010
- *      Author: lzp
+ *  Created on: Oct 26, 2013
+ *      Author: whc
  */
 
 #ifndef GEO_FMT_H_
