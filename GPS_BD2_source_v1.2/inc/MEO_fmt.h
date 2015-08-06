@@ -1,8 +1,8 @@
 /*
  * bd2_frmfmt.h
  *
- *  Created on: Aug 29, 2010
- *      Author: lzp
+ *  Created on: Aug 29, 2013
+ *      Author: whc
  */
 
 #ifndef MEO_FMT_H_
