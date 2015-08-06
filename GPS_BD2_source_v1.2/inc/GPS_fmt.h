@@ -1,8 +1,8 @@
 /*
  * GPS_fmt.h
  *
- *  Created on: 2011-12-17
- *      Author: ah
+ *  Created on: 2013-12-17
+ *      Author: whc
  */
 
 #ifndef GPS_FMT_H_
