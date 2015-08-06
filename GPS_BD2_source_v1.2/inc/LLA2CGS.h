@@ -1,8 +1,8 @@
 /*
  * LLA2CGS.h
  *
- *  Created on: 2011-11-21
- *      Author: ah
+ *  Created on: 2013-11-21
+ *      Author: whc
  */
 
 #ifndef LLA2CGS_H_
