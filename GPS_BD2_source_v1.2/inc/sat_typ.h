@@ -1,8 +1,8 @@
 /*
  * sat_typ.h
  *
- *  Created on: 2011-12-15
- *      Author: ah
+ *  Created on: 2013-12-15
+ *      Author: whc
  */
 
 #ifndef SAT_TYP_H_
