@@ -1,8 +1,8 @@
 /*
  * inco.h
  *
- *  Created on: 2011-11-21
- *      Author: ah
+ *  Created on: 2013-11-21
+ *      Author: whc
  */
 
 #ifndef INCO_H_
