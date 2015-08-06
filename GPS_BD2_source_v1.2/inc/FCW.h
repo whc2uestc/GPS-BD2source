@@ -1,8 +1,8 @@
 /*
  * FCW.h
  *
- *  Created on: 2011-11-22
- *      Author: ah
+ *  Created on: 2013-11-22
+ *      Author: whc
  */
 
 #ifndef FCW_H_
