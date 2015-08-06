@@ -1,8 +1,8 @@
 /*
  * GPS_loc.h
  *
- *  Created on: 2011-12-23
- *      Author: ah
+ *  Created on: 2013-12-23
+ *      Author: whc
  */
 
 #ifndef GPS_LOC_H_
